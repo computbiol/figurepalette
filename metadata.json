@@ -1,0 +1,5 @@
+{
+  "name": "FigurePalette",
+  "description": "A sophisticated color palette visualization tool that transforms raw hex data into a searchable, interactive, and aesthetically pleasing gallery.",
+  "requestFramePermissions": []
+}
